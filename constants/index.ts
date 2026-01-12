@@ -64,12 +64,12 @@ export const SOCIALS = [
   {
     name: "Instagram",
     icon: RxInstagramLogo,
-    link: "https://instagram.com",
+    link: "https://www.instagram.com/dev_x_aura/",
   },
   {
     name: "Facebook",
     icon: FaFacebook,
-    link: "https://facebook.com",
+    link: "https://www.facebook.com/profile.php?id=61586122544558",
   },
 ] as const;
 
@@ -120,7 +120,7 @@ export const FOOTER_DATA = [
       {
         name: "GitHub",
         icon: RxGithubLogo,
-        link: "https://github.com",
+        link: "https://github.com/mrjanplayspro",
       },
 
     ],
@@ -130,9 +130,9 @@ export const FOOTER_DATA = [
     data: [
 
       {
-        name: "Linkedin",
-        icon: RxLinkedinLogo,
-        link: "https://www.linkedin.com/in/abdul-raheman-389597281/",
+     name: "Instagram",
+    icon: RxInstagramLogo,
+    link: "https://www.instagram.com/dev_x_aura/",
       },
     ],
   },
