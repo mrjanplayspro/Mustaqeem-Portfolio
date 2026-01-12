@@ -28,7 +28,9 @@ export const Navbar = () => {
             className="cursor-pointer"
           />
           <span className="hidden sm:block text-white font-bold tracking-wide">
-          <h1>{`I'm Mustaqeem jan`}</h1>  // ✅ Using template string
+          <p>
+  I&apos;m Mustaqeem Jan
+</p>
 
 
           </span>
